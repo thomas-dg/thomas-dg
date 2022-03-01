@@ -1,8 +1,10 @@
 # Hi you ! 👋
 
-I hope you're doing well and welcome on my Github profile ⚡
+I hope you're doing well and welcome to my Github profile ⚡
 
 <img src="https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif" width="50%">
+
+# Who am i ? 🤔
 
 <!--
 **thomas-dg/thomas-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
