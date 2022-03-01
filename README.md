@@ -10,7 +10,7 @@ I'm a french student at the IIM in Paris, La Défense who dreams to become a fro
 
 Before that I was in Brittany and i my free time was about surfing and coding, that's why I came to Paris
 
-<img src="https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif" width="50%">
+<img src="https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif" width="30%">
 
 <!--
 **thomas-dg/thomas-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
