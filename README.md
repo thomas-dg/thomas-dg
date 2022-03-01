@@ -14,6 +14,10 @@ Before that I was in Brittany and i my free time was about surfing and coding, t
 
 ## My links 💬
 
+<a href="https://www.linkedin.com/in/thomas-doret-gaisset/"> LinkedIn </a>
+
+
+
 <!--
 **thomas-dg/thomas-dg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
